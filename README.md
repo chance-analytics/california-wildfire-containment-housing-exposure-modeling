@@ -124,5 +124,5 @@ Open `Project Python Notebook.ipynb` and run top-to-bottom.
 ---
 
 ## Author
-**Zicheng (Chance) Xu**  
+**Chance Xu**  
 GitHub: https://github.com/chance-analytics
